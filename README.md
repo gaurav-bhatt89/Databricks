@@ -10,4 +10,4 @@ I have also included corresponding ``.py`` and ``.html`` version of each ``.ipyn
 
 Databricks, Inc. is a global data, analytics, and artificial intelligence company, founded in 2013 by the original creators of Apache Spark. The company provides a cloud-based platform to help enterprises build, scale, and govern data and AI, including generative AI and other machine learning models.
 
-Databricks Community Edition - https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.cloud.databricks.com/&ved=2ahUKEwjlqruL1JuNAxW8dmwGHRyNLEYQFnoECBoQAQ&usg=AOvVaw1XzBqyYdP9Tomk0kbqwbsq
+Databricks Community Edition - [Link](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://community.cloud.databricks.com/&ved=2ahUKEwjlqruL1JuNAxW8dmwGHRyNLEYQFnoECBoQAQ&usg=AOvVaw1XzBqyYdP9Tomk0kbqwbsq)
